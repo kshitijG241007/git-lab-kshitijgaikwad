@@ -13,8 +13,3 @@ I am a student at upgrad school of technology, currently learning Git and Github
 - lms :one line about it 
 - cms : one line about it 
 
-
-## social skills 
-- Github :https://github.com
--linkedin:
-https://linkedin.com
